@@ -4,14 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Data/w_styles.css">
-    <title>Shan's Profile</title>
 </head>
 <body>
     <div>
         <h1>Welcome to my profile page</h1>
     </div>
     
-    <div class="divSummary"><hr>
+    <div><hr>
     <p>
 Hey! There.<br><br>
 Thanks for showing interest in my profile to see what im been with.<br>
@@ -26,4 +25,4 @@ Have a good day!
         <a href="https://www.linkedin.com/in/shanthosh-k/" target="_blank">Linkedin</a>
     </div>
 </body>
-</html>ś
+</html>
