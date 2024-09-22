@@ -9,9 +9,6 @@
     <div>
         <h1>Welcome to my profile page</h1>
     </div>
-    
-    <div><hr>
-    <p>
 Hey! There.<br><br>
 Thanks for showing interest in my profile to see what im been with.<br>
 Here ill do the full stack development - a [<b>Active Recall</b>] progress.<br>
