@@ -16,7 +16,7 @@ Not only that - i can able to manage the Red Hat server as admin and act as an A
 Lets keep this simple and Thank you again!<br><br>
 Have a good day!
     </p>
-    <div>
+    <div><hr>
         <a href="https://www.instagram.com/shan.4k" target="_blank">Instagram</a>
         <a href="https://www.linkedin.com/in/shanthosh-k/" target="_blank">Linkedin</a>
     </div>

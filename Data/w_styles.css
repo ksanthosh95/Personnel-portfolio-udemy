@@ -2,3 +2,7 @@
     width: 50%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.w_table{
+    border-style: dashed;
+}
