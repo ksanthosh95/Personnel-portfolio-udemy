@@ -15,8 +15,7 @@ Here ill do the full stack development - a [<b>Active Recall</b>] progress.<br>
 Not only that - i can able to manage the Red Hat server as admin and act as an Application Support engineer for a IoT Marine projects.<br><br>
 Lets keep this simple and Thank you again!<br><br>
 Have a good day!
-    </p><hr>
-    </div>
+    </p>
     <div>
         <a href="https://www.instagram.com/shan.4k" target="_blank">Instagram</a>
         <a href="https://www.linkedin.com/in/shanthosh-k/" target="_blank">Linkedin</a>
