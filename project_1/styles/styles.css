@@ -1,0 +1,9 @@
+.flex1{
+    background-image: url('/Data/img/background1.jpg');
+    height: 500px;
+    background-size: cover;
+    align-content: center;
+    padding-left: 10%;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

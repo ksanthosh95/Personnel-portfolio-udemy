@@ -4,20 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shan's Maintenance services</title>
-    <link rel="stylesheet" href="/project_1/styles/footer.css">
+    <link rel="stylesheet" href="./styles/header.css">
+    <link rel="stylesheet" href="./styles/styles.css">
 </head>
-<body>
-    
-</body>
-<footer>
-<div id="footer">
-    <h2 id="footerh">We'll take good care of your rocket.</h2>
-    <p>We’ll treat your rocket as if it’s our own. Our standards are higher than the ISS's altitude. We also enjoy test driving your rocket before giving it back 😱</p>
+<div>
+    <div class="headerr">
+        <div class="h-title">
+            <div class="logo">
+                <img src="/Data/img/icons/s-logo.png" alt="" sizes="90%">
+            </div>
+            <div class="title">
+                SHAN's
+            </div>
+        </div>
+        <div style="padding-left: 5%;">
+            <a href="pages/services.html">Services</a>
+        </div>
+        <div style="padding-left: 5%;">
+            <a href="pages/contact.html">Contact</a>
+        </div>
+        <div style="padding-left: 5%;">
+            <a href="pages/courses.html">Shan's Course</a>
+        </div>
+    </div>  
+    <hr>
 </div>
-<div id="footer">
-    <span id="contactusbtn">
-        <button id="cbtn">Contact Us</button>
+<body>
+<div class="flex1">
+    <span>
+        <h1>Supreme Camera Maintenance</h1>
+        <h2>Your Camera is your $1,000,000 baby. We get that.</h2>
+    </span><br>
+    <span>
+        <button id="cbtn">CONTACT US</button>
     </span>
 </div>
-</footer>
+</body>
+<div id="footer-placeholder"></div>
+
+<script>
+    fetch('pages/footer.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('footer-placeholder').innerHTML = data;
+        });
+</script>
+
 </html>

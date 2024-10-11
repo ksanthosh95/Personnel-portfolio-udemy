@@ -1,15 +1,37 @@
-#footer{
-    background-color: blueviolet;
+table.full-width{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 20px;
-    display:inline-table;
-    border: none;
-    height: 400px;
+    padding:50px;
 }
-button{
+table.full-width p{
+    font-size:larger;
+    padding-right: 10%;
+}
+.footer1{
+    background-color: #814ebf;
+    padding-left: 10%;
+    display: flexbox;
+}
+.footer2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #000000;
+    padding-left: 15%;
+    color: white;
+    display: flex;
+}
+.f_div{
+    padding: 5%;
+    color: white;
+}
+#cbtn{
+    font-size: larger;
     background-color: white;
     border: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:500;
+    padding: 20px;
+    width:200px;
+}
+.contactusbtn{
+    padding: 50px;
 }
