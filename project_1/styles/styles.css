@@ -1,17 +1,18 @@
-.flex1{
-    /* background-image: url('/Data/img/background1.jpg'); */
-    background: linear-gradient(180.43deg, rgb(0 0 0 / 60%) 0%, rgba(0, 0, 0, 0.8) 100%), url(/Data/img/background1.jpg);
-    height: 500px;
-    background-size: cover;
-    align-content: center;
-    padding-left: 10%;
-    color: white;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.headerr{
-    background-color: white;
-    padding: 2%;
-    width: 100%;
+    .flex1{
+        /* background-image: url('/Data/img/background1.jpg'); */
+        background: linear-gradient(180.43deg, rgb(0 0 0 / 60%) 0%, rgba(0, 0, 0, 0.8) 100%), url(/Data/img/background1.jpg);
+        height: 500px;
+        background-size: cover;
+        align-content: center;
+        padding-left: 10%;
+        color: white;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .headerr{
+        background-color: white;
+        padding: 2%;
+        width: 100%;
+        position: fixed;
     }
     .h-title{
         display: flex;
@@ -39,6 +40,7 @@
     .nav-links{
         text-transform: uppercase; /*uppercase the test*/
         font-weight: bold; /* Adjusts font weight */
+        border-bottom: 1px solid rgb(50, 50, 50);
     
     }
     .nav-top{
